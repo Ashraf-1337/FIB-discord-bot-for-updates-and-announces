@@ -1,6 +1,6 @@
 # discord-bot-for-updates-and-announces
 
-The FIB Discord Bot is a powerful and easy-to-use tool designed to help you manage updates and announcements directly in your Discord server. Whether you're running a gaming community, a roleplay server, or any organized group, the FIB Bot makes communication seamless and professional.
+The Discord Bot is a powerful and easy-to-use tool designed to help you manage updates and announcements directly in your Discord server. Whether you're running a gaming community, a roleplay server, or any organized group, the FIB Bot makes communication seamless and professional.
 🛠️ Key Features:
 
     Announcements: Automatically send announcements to selected channels.
